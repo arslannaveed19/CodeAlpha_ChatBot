@@ -48,9 +48,6 @@ Add more conversational responses
 
 Implement case-insensitive input handling
 
-Integrate NLP capabilities
-
-Build a web version using Flask
 
 ***Author***
 
